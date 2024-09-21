@@ -1,0 +1,1 @@
+Configuration management is an integral part of deployment, and tool used here in ansible.
